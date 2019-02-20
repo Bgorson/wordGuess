@@ -12,3 +12,6 @@ Users get 5 incorrect guesses before they lose. The terminal will display the le
 ### How it works
 
 Two constructors are used in order for this game to function. Each letter is an object with values and the word contains these object letters and additioinal methods. User input will toggle the letters to display their corresponding letter of the word until all letters are chosen. 
+
+Also watch a video here for additional assistance: 
+https://drive.google.com/file/d/1OqM6Sm8Vk63lJvmrbeYzPowcrRwyn0Zo/view
